@@ -1,4 +1,6 @@
+<!DOCTYPE html>
 <html>
+ <body>
 <table style="width: 1100px;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -134,4 +136,5 @@
 </tr>
 </tbody>
 </table>
+  </body>
 </html>
