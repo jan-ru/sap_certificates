@@ -29,7 +29,7 @@
 <tr>
 <td dir="ltr" style="width: 23px;">1</td>
 <td dir="ltr" style="width: 573px;"><a href="https://open.sap.com/" rel="nofollow">An Introduction to Oil & Gas Downstream Logistics</a></td>
-<td dir="ltr" style="width: 26px;">(OGSD 7.0)</td>
+<td dir="ltr" style="width: 26px;">(ogsd7)</td>
 <td dir="ltr" style="width: 137px;">16-24 hours</td>
 <td dir="ltr" style="width: 181px;">SAP</td>
 <td dir="ltr" style="width: 10px;">__._%</td>
