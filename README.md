@@ -134,13 +134,22 @@
 <td dir="ltr" style="width: 239px;">10-12-17</td>
 </tr>
 <tr>
-<td dir="ltr" style="width: 23px;">11</td>
+<td dir="ltr" style="width: 23px;">12</td>
 <td dir="ltr" style="width: 573px;"><a href="https://open.sap.com/verify/xegib-rabam-tuveg-virez-bycod" rel="nofollow">SAP Fiori for iOS - An Introduction</a></td>
 <td dir="ltr" style="width: 26px;">(ios1)</td>
 <td dir="ltr" style="width: 137px;">4-8 hours</td>
 <td dir="ltr" style="width: 181px;">SAP</td>
 <td dir="ltr" style="width: 10px;">92.9%</td>
 <td dir="ltr" style="width: 239px;">26-03-17</td>
+</tr>
+<tr>
+<td style="width: 23px;">&nbsp;</td>
+<td style="width: 573px;">&nbsp;</td>
+<td style="width: 26px;">&nbsp;</td>
+<td style="width: 137px;">&nbsp;</td>
+<td style="width: 181px;">&nbsp;</td>
+<td style="width: 10px;">&nbsp;</td>
+<td style="width: 239px;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
